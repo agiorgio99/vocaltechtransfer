@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+transformers
+safetensors
+numpy
+scipy
+matplotlib
+scikit-learn
+soundfile
+jupyterlab
+ipython
+ipykernel
+datasets
+accelerate
+descript-audio-codec
